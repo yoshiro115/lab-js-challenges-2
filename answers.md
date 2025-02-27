@@ -15,7 +15,7 @@
 
 4. Challenge 4:
 
-- Answer:c
+- Answer: c) { num: 90 }
 - Explanation: "b" are not a deep copy so, if property insade "b" change, it's change the originale "a" too.
 
 5. Bonus - Challenge 5:
